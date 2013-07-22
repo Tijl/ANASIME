@@ -1,7 +1,7 @@
 ANASIME
 =======
 
-Analogy Simulation Environment
+Analogy Simulation Environment in Python
 
 This repository is the result of a master internship at the Donders Centre for Cogntion and Radboud University Nijmegen.
 It was used to systematically assess algorithms for Structure-Mapping Theory (SMT), one of the most influential theories for human analogy derivation (Gentner, 1983).
