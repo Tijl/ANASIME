@@ -3,7 +3,7 @@ ANASIME
 
 Analogy Simulation Environment in Python
 
-This repository is the result of a master internship at the Donders Centre for Cogntion and Radboud University Nijmegen.
+This repository is the product of a master internship at the Donders Centre for Cogntion and Radboud University Nijmegen.
 It was used to systematically assess algorithms for Structure-Mapping Theory (SMT), one of the most influential theories for human analogy derivation (Gentner, 1983).
 To promote further research on this topic, the code is made available here under the GPLv3 license.
 
@@ -17,6 +17,7 @@ This repository contains the following:
 Depencies
 ---------
 
+- python (2.6 or higher)
 - networkx, for graph functionality
 - pygraphviz [optional] to visualize graphs
 - psutil, to keep track of algorithm runtimes
