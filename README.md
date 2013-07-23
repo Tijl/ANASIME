@@ -3,7 +3,7 @@ ANASIME
 
 Analogy Simulation Environment in Python
 
-This repository is the product of a master internship at the Donders Centre for Cogntion and Radboud University Nijmegen.
+This repository is the product of a master internship at the Donders Centre for Cogntion and Radboud University Nijmegen (see Grootswagers, 2013).
 It was used to systematically assess algorithms for Structure-Mapping Theory (SMT), one of the most influential theories for human analogy derivation (Gentner, 1983).
 To promote further research on this topic, the code is made available here under the GPLv3 license.
 
@@ -43,6 +43,8 @@ REFERENCES
 - Forbus, K., & Oblinger, D. (1990). Making SME greedy and pragmatic. In Proceedings of the twelfth annual conference of the Cognitive Science Society (pp. 61–68).
 
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. Cognitive Science, 7 (2), 155–170.
+
+- Grootswagers, T. (2013). Having your cake and eating it too: Towards a fast and optimal method for analogy derivation. Unpublished MSc. Thesis, Department of Artificial Intelligence, Radboud University Nijmegen.
 
 - van Rooij, I., Evans, P., Muller, M., Gedge, J., & Wareham, T. (2008). Identifying sources of intractability in cognitive models: An illustration using analogical structure mapping. In Proceedings of the 30th Annual Conference of the Cognitive Science Society (pp. 915–920).
 
