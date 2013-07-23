@@ -27,7 +27,7 @@ These dependencies can be found in the pypi repository and are also included in 
 DISCLAIMER
 ----------
 
-This software is only tested on Linux (Arch Linux and Ubuntu), and I can not guarantee anything regarding compability with other operating systems.
+This software is only tested on Linux (Arch Linux and Debian/Ubuntu), and I can not guarantee anything regarding compability with other operating systems.
 On the other hand, as python is cross-platform, I don't expect any issues.
 
 AUTHOR
