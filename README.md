@@ -10,7 +10,7 @@ To promote further research on this topic, the code is made available here under
 This repository contains the following:
 
 - A predicate structure pair generator (generator.py) that generates pairs with specific characteristics according to SMT
-- An implementation for the Structure-Mapping Engine (sme.py), as described in Falkenhainer, Forbus & Gentner (1989), and its adapted greedy heuristic (Forbus & Oblinger (1990)).
+- An implementation for the Structure-Mapping Engine (sme.py), as described in Falkenhainer, Forbus & Gentner (1989), and its adapted greedy heuristic (Forbus & Oblinger ,1990)).
 - Two fp-tractable algorithms for SMT (fpto.py and fptp.py), as described in van Rooij, Evans, Muller, Gedge, & Wareham (2008) and Wareham, Evans, & van Rooij (2011).
 - An example module to systematically test the algorithms (simulator.py) and an example script to run a simulation (sim_example.py)
 
