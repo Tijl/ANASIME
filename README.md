@@ -44,7 +44,7 @@ REFERENCES
 
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. Cognitive Science, 7 (2), 155–170.
 
-- Grootswagers, T. (2013). Having your cake and eating it too: Towards a fast and optimal method for analogy derivation. Unpublished MSc. Thesis, Department of Artificial Intelligence, Radboud University Nijmegen. http://www.ru.nl/publish/pages/641409/grootswagers_t_ma_thesis2013.pdf
+- Grootswagers, T. (2013). Having your cake and eating it too: Towards a fast and optimal method for analogy derivation. Unpublished MSc. Thesis, Department of Artificial Intelligence, Radboud University Nijmegen. https://github.com/Tijl/ANASIME/blob/master/thesisgrootswagers24072013.pdf
 
 - van Rooij, I., Evans, P., Muller, M., Gedge, J., & Wareham, T. (2008). Identifying sources of intractability in cognitive models: An illustration using analogical structure mapping. In Proceedings of the 30th Annual Conference of the Cognitive Science Society (pp. 915–920).
 
